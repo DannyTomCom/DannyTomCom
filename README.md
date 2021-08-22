@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Dan Gormley from Dallas Texas.
+- 👀 I’m interested in Technology, Sports, & Gaming as well as developing.
+- 🌱 I’m currently learning to be a Salesforce Certified Administrator.
+- 💞️ I’m looking to collaborate on all things development related.
+- 📫 How to reach me: just flex those bangers and send.
